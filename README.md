@@ -1,0 +1,4 @@
+intervalchikichikishechki
+=========================
+
+Інтервали в С++
